@@ -77,3 +77,18 @@ p.info{
     font-weight: bold;
     font-style: italic;
 }
+div.address{
+    font-size: 5px;
+    text-align: center;
+    border-style: dashed;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px;
+    margin-top: 9px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+   padding-bottom: 3px;
+}
+a.mail{
+    text-decoration: none;
+}
